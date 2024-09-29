@@ -1,0 +1,2 @@
+javac --module-path "C:\Java\javafx-sdk-23\lib" --add-modules javafx.controls,javafx.fxml -cp "lib\jfoenix-8.0.5.jar;lib\controlsfx-8.40.12.jar;lib\fontawesomefx-8.9.jar;lib\mysql-connector-java-8.0.11.jar" src\main\Main.java src\main\java\controllers\*.java src\main\java\others\*.java
+ java --module-path "C:\Java\javafx-sdk-23\lib" --add-modules javafx.controls,javafx.fxml -cp "main;main\java\controllers;main\java\others;..\lib\jfoenix-8.0.5.jar;..\lib\controlsfx-8.40.12.jar;..\lib\fontawesomefx-8.9.jar;..\lib\mysql-connector-java-8.0.11.jar" main.Main
