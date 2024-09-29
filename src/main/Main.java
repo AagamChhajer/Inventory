@@ -1,11 +1,5 @@
 package main;
 
-/**
- * Author: Afif Al Mamun
- * Written on: 08-Jul-18
- * Project: TeslaRentalInventory
- **/
-
 import main.java.controllers.PromptDialogController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
